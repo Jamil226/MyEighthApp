@@ -1,4 +1,5 @@
 **Shared Preferences**
 
-  Data Strorage
+  Data Storage
+  
   Data Retrieval 
